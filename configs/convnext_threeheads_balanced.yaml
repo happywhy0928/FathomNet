@@ -1,0 +1,22 @@
+seed: 2025
+paths:
+  data_root: data
+  splits_dir: data/splits
+  logs_dir: logs
+  reports_dir: reports
+training:
+  epochs: 30
+  batch_size: 48
+  num_workers: 8
+  img_size: 224
+  lr: 3e-4
+  weight_decay: 0.05
+  sample_mode: balanced
+model:
+  backbone: convnext_tiny.fb_in22k_ft_in1k
+  freeze_backbone: false
+loss:
+  w_family: 0.2
+  w_genus: 0.3
+  w_species: 1.0
+  lambda_consistency: 0.0

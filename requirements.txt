@@ -1,0 +1,16 @@
+torch
+torchvision
+lightning
+timm
+pandas
+numpy
+scikit-learn
+pillow
+opencv-python
+matplotlib
+seaborn
+tqdm
+pyyaml
+jsonlines
+rich
+requests

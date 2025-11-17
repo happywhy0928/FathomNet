@@ -1,0 +1,21 @@
+seed: 2025
+paths:
+  data_root: data
+  splits_dir: data/splits
+  logs_dir: logs
+  reports_dir: reports
+training:
+  epochs: 30
+  batch_size: 64
+  num_workers: 8
+  img_size: 224
+  lr: 3e-4
+  weight_decay: 0.05
+model:
+  backbone: resnet50
+  freeze_backbone: false
+loss:
+  w_family: 0.2
+  w_genus: 0.3
+  w_species: 1.0
+  lambda_consistency: 0.0

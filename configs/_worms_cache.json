@@ -1,0 +1,278 @@
+{
+  "abyssocucumis abyssorum": {
+    "genus": "Abyssocucumis",
+    "family": "Cucumariidae"
+  },
+  "acanthascinae": {
+    "genus": "Acanthascinae",
+    "family": "Rossellidae"
+  },
+  "acanthoptilum": {
+    "genus": "Acanthoptilum",
+    "family": "Virgulariidae"
+  },
+  "actinernus": {
+    "genus": "Actinernus",
+    "family": "Actinernidae"
+  },
+  "actiniaria": {
+    "genus": "Actiniaria",
+    "family": null
+  },
+  "actinopterygii": {
+    "genus": "Actinopterygii",
+    "family": null
+  },
+  "amphipoda": {
+    "genus": "Amphipoda",
+    "family": null
+  },
+  "apostichopus leukothele": {
+    "genus": "Apostichopus",
+    "family": "Stichopodidae"
+  },
+  "asbestopluma": {
+    "genus": "Asbestopluma",
+    "family": "Cladorhizidae"
+  },
+  "asbestopluma monticola": {
+    "genus": "Asbestopluma",
+    "family": "Cladorhizidae"
+  },
+  "asteroidea": {
+    "genus": "Asteroidea",
+    "family": null
+  },
+  "benthocodon pedunculata": {
+    "genus": "Benthocodon",
+    "family": "Rhopalonematidae"
+  },
+  "brisingida": {
+    "genus": "Brisingida",
+    "family": null
+  },
+  "caridea": {
+    "genus": "Caridea",
+    "family": null
+  },
+  "ceriantharia": {
+    "genus": "Ceriantharia",
+    "family": null
+  },
+  "chionoecetes tanneri": {
+    "genus": "Chionoecetes",
+    "family": "Oregoniidae"
+  },
+  "chorilia longipes": {
+    "genus": "Chorilia",
+    "family": "Epialtidae"
+  },
+  "corallimorphus pilatus": {
+    "genus": "Corallimorphus",
+    "family": "Corallimorphidae"
+  },
+  "crinoidea": {
+    "genus": "Crinoidea",
+    "family": null
+  },
+  "elpidia": {
+    "genus": "Elpidia",
+    "family": "Elpidiidae"
+  },
+  "farrea": {
+    "genus": "Farrea",
+    "family": "Farreidae"
+  },
+  "florometra serratissima": {
+    "genus": "Florometra",
+    "family": "Antedonidae"
+  },
+  "gastropoda": {
+    "genus": "Gastropoda",
+    "family": null
+  },
+  "gersemia juliepackardae": {
+    "genus": "Gersemia",
+    "family": "Alcyoniidae"
+  },
+  "heterocarpus": {
+    "genus": "Heterocarpus",
+    "family": "Pandalidae"
+  },
+  "heteropolypus ritteri": {
+    "genus": "Heteropolypus",
+    "family": "Coralliidae"
+  },
+  "hexactinellida": {
+    "genus": "Hexactinellida",
+    "family": null
+  },
+  "hippasteria": {
+    "genus": "Hippasteria",
+    "family": "Goniasteridae"
+  },
+  "holothuroidea": {
+    "genus": "Holothuroidea",
+    "family": null
+  },
+  "hormathiidae": {
+    "genus": "Hormathiidae",
+    "family": "Hormathiidae"
+  },
+  "isidella tentaculum": {
+    "genus": "Isidella",
+    "family": "Keratoisididae"
+  },
+  "isididae": {
+    "genus": "Isididae",
+    "family": "Isididae"
+  },
+  "isosicyonis": {
+    "genus": "Isosicyonis",
+    "family": "Actiniidae"
+  },
+  "keratoisis": {
+    "genus": "Keratoisis",
+    "family": "Keratoisididae"
+  },
+  "liponema brevicorne": {
+    "genus": "Liponema",
+    "family": "Liponematidae"
+  },
+  "lithodidae": {
+    "genus": "Lithodidae",
+    "family": "Lithodidae"
+  },
+  "mediaster aequalis": {
+    "genus": "Mediaster",
+    "family": "Goniasteridae"
+  },
+  "merluccius productus": {
+    "genus": "Merluccius",
+    "family": "Merlucciidae"
+  },
+  "metridium farcimen": {
+    "genus": "Metridium",
+    "family": "Metridiidae"
+  },
+  "microstomus pacificus": {
+    "genus": "Microstomus",
+    "family": "Pleuronectidae"
+  },
+  "munidopsis": {
+    "genus": "Munidopsis",
+    "family": "Munidopsidae"
+  },
+  "munnopsidae": {
+    "genus": "Munnopsidae",
+    "family": "Munnopsidae"
+  },
+  "mycale": {
+    "genus": "Mycale",
+    "family": "Mycalidae"
+  },
+  "octopus rubescens": {
+    "genus": "Octopus",
+    "family": "Octopodidae"
+  },
+  "ophiacanthidae": {
+    "genus": "Ophiacanthidae",
+    "family": "Ophiacanthidae"
+  },
+  "paelopatides confundens": {
+    "genus": "Paelopatides",
+    "family": "Synallactidae"
+  },
+  "pandalus amplus": {
+    "genus": "Pandalus",
+    "family": "Pandalidae"
+  },
+  "pandalus platyceros": {
+    "genus": "Pandalus",
+    "family": "Pandalidae"
+  },
+  "pannychia moseleyi": {
+    "genus": "Pannychia",
+    "family": "Laetmogonidae"
+  },
+  "paragorgia": {
+    "genus": "Paragorgia",
+    "family": "Coralliidae"
+  },
+  "paragorgia arborea": {
+    "genus": "Paragorgia",
+    "family": "Coralliidae"
+  },
+  "paralomis multispina": {
+    "genus": "Paralomis",
+    "family": "Lithodidae"
+  },
+  "parastenella": {
+    "genus": "Parastenella",
+    "family": "Primnoidae"
+  },
+  "peniagone": {
+    "genus": "Peniagone",
+    "family": "Elpidiidae"
+  },
+  "pennatula phosphorea": {
+    "genus": "Pennatula",
+    "family": "Pennatulidae"
+  },
+  "psathyrometra fragilis": {
+    "genus": "Psathyrometra",
+    "family": "Zenometridae"
+  },
+  "psolus squamatus": {
+    "genus": "Psolus",
+    "family": "Psolidae"
+  },
+  "pyrosoma atlanticum": {
+    "genus": "Pyrosoma",
+    "family": "Pyrosomatidae"
+  },
+  "rathbunaster californicus": {
+    "genus": "Rathbunaster",
+    "family": "Asteriidae"
+  },
+  "scleractinia": {
+    "genus": "Scleractinia",
+    "family": null
+  },
+  "scotoplanes": {
+    "genus": "Scotoplanes",
+    "family": "Elpidiidae"
+  },
+  "scotoplanes globosa": {
+    "genus": "Scotoplanes",
+    "family": "Elpidiidae"
+  },
+  "sebastes": {
+    "genus": "Sebastes",
+    "family": "Sebastidae"
+  },
+  "sebastes diploproa": {
+    "genus": "Sebastes",
+    "family": "Sebastidae"
+  },
+  "sebastolobus": {
+    "genus": "Sebastolobus",
+    "family": "Sebastidae"
+  },
+  "terebellidae": {
+    "genus": "Terebellidae",
+    "family": "Terebellidae"
+  },
+  "tunicata": {
+    "genus": "Tunicata",
+    "family": null
+  },
+  "umbellula": {
+    "genus": "Umbellula",
+    "family": "Umbellulidae"
+  },
+  "vesicomyidae": {
+    "genus": "Vesicomyidae",
+    "family": "Vesicomyidae"
+  }
+}

@@ -1,0 +1,347 @@
+[
+  {
+    "species": "Abyssocucumis abyssorum",
+    "genus": "Abyssocucumis",
+    "family": "Cucumariidae"
+  },
+  {
+    "species": "Acanthascinae",
+    "genus": "Acanthascinae",
+    "family": "Rossellidae"
+  },
+  {
+    "species": "Acanthoptilum",
+    "genus": "Acanthoptilum",
+    "family": "Virgulariidae"
+  },
+  {
+    "species": "Actinernus",
+    "genus": "Actinernus",
+    "family": "Actinernidae"
+  },
+  {
+    "species": "Actiniaria",
+    "genus": "Actiniaria",
+    "family": null
+  },
+  {
+    "species": "Actinopterygii",
+    "genus": "Actinopterygii",
+    "family": null
+  },
+  {
+    "species": "Amphipoda",
+    "genus": "Amphipoda",
+    "family": null
+  },
+  {
+    "species": "Apostichopus leukothele",
+    "genus": "Apostichopus",
+    "family": "Stichopodidae"
+  },
+  {
+    "species": "Asbestopluma",
+    "genus": "Asbestopluma",
+    "family": "Cladorhizidae"
+  },
+  {
+    "species": "Asbestopluma monticola",
+    "genus": "Asbestopluma",
+    "family": "Cladorhizidae"
+  },
+  {
+    "species": "Asteroidea",
+    "genus": "Asteroidea",
+    "family": null
+  },
+  {
+    "species": "Benthocodon pedunculata",
+    "genus": "Benthocodon",
+    "family": "Rhopalonematidae"
+  },
+  {
+    "species": "Brisingida",
+    "genus": "Brisingida",
+    "family": null
+  },
+  {
+    "species": "Caridea",
+    "genus": "Caridea",
+    "family": null
+  },
+  {
+    "species": "Ceriantharia",
+    "genus": "Ceriantharia",
+    "family": null
+  },
+  {
+    "species": "Chionoecetes tanneri",
+    "genus": "Chionoecetes",
+    "family": "Oregoniidae"
+  },
+  {
+    "species": "Chorilia longipes",
+    "genus": "Chorilia",
+    "family": "Epialtidae"
+  },
+  {
+    "species": "Corallimorphus pilatus",
+    "genus": "Corallimorphus",
+    "family": "Corallimorphidae"
+  },
+  {
+    "species": "Crinoidea",
+    "genus": "Crinoidea",
+    "family": null
+  },
+  {
+    "species": "Elpidia",
+    "genus": "Elpidia",
+    "family": "Elpidiidae"
+  },
+  {
+    "species": "Farrea",
+    "genus": "Farrea",
+    "family": "Farreidae"
+  },
+  {
+    "species": "Florometra serratissima",
+    "genus": "Florometra",
+    "family": "Antedonidae"
+  },
+  {
+    "species": "Gastropoda",
+    "genus": "Gastropoda",
+    "family": null
+  },
+  {
+    "species": "Gersemia juliepackardae",
+    "genus": "Gersemia",
+    "family": "Alcyoniidae"
+  },
+  {
+    "species": "Heterocarpus",
+    "genus": "Heterocarpus",
+    "family": "Pandalidae"
+  },
+  {
+    "species": "Heteropolypus ritteri",
+    "genus": "Heteropolypus",
+    "family": "Coralliidae"
+  },
+  {
+    "species": "Hexactinellida",
+    "genus": "Hexactinellida",
+    "family": null
+  },
+  {
+    "species": "Hippasteria",
+    "genus": "Hippasteria",
+    "family": "Goniasteridae"
+  },
+  {
+    "species": "Holothuroidea",
+    "genus": "Holothuroidea",
+    "family": null
+  },
+  {
+    "species": "Hormathiidae",
+    "genus": "Hormathiidae",
+    "family": "Hormathiidae"
+  },
+  {
+    "species": "Isidella tentaculum",
+    "genus": "Isidella",
+    "family": "Keratoisididae"
+  },
+  {
+    "species": "Isididae",
+    "genus": "Isididae",
+    "family": "Isididae"
+  },
+  {
+    "species": "Isosicyonis",
+    "genus": "Isosicyonis",
+    "family": "Actiniidae"
+  },
+  {
+    "species": "Keratoisis",
+    "genus": "Keratoisis",
+    "family": "Keratoisididae"
+  },
+  {
+    "species": "Liponema brevicorne",
+    "genus": "Liponema",
+    "family": "Liponematidae"
+  },
+  {
+    "species": "Lithodidae",
+    "genus": "Lithodidae",
+    "family": "Lithodidae"
+  },
+  {
+    "species": "Mediaster aequalis",
+    "genus": "Mediaster",
+    "family": "Goniasteridae"
+  },
+  {
+    "species": "Merluccius productus",
+    "genus": "Merluccius",
+    "family": "Merlucciidae"
+  },
+  {
+    "species": "Metridium farcimen",
+    "genus": "Metridium",
+    "family": "Metridiidae"
+  },
+  {
+    "species": "Microstomus pacificus",
+    "genus": "Microstomus",
+    "family": "Pleuronectidae"
+  },
+  {
+    "species": "Munidopsis",
+    "genus": "Munidopsis",
+    "family": "Munidopsidae"
+  },
+  {
+    "species": "Munnopsidae",
+    "genus": "Munnopsidae",
+    "family": "Munnopsidae"
+  },
+  {
+    "species": "Mycale",
+    "genus": "Mycale",
+    "family": "Mycalidae"
+  },
+  {
+    "species": "Octopus rubescens",
+    "genus": "Octopus",
+    "family": "Octopodidae"
+  },
+  {
+    "species": "Ophiacanthidae",
+    "genus": "Ophiacanthidae",
+    "family": "Ophiacanthidae"
+  },
+  {
+    "species": "Paelopatides confundens",
+    "genus": "Paelopatides",
+    "family": "Synallactidae"
+  },
+  {
+    "species": "Pandalus amplus",
+    "genus": "Pandalus",
+    "family": "Pandalidae"
+  },
+  {
+    "species": "Pandalus platyceros",
+    "genus": "Pandalus",
+    "family": "Pandalidae"
+  },
+  {
+    "species": "Pannychia moseleyi",
+    "genus": "Pannychia",
+    "family": "Laetmogonidae"
+  },
+  {
+    "species": "Paragorgia",
+    "genus": "Paragorgia",
+    "family": "Coralliidae"
+  },
+  {
+    "species": "Paragorgia arborea",
+    "genus": "Paragorgia",
+    "family": "Coralliidae"
+  },
+  {
+    "species": "Paralomis multispina",
+    "genus": "Paralomis",
+    "family": "Lithodidae"
+  },
+  {
+    "species": "Parastenella",
+    "genus": "Parastenella",
+    "family": "Primnoidae"
+  },
+  {
+    "species": "Peniagone",
+    "genus": "Peniagone",
+    "family": "Elpidiidae"
+  },
+  {
+    "species": "Pennatula phosphorea",
+    "genus": "Pennatula",
+    "family": "Pennatulidae"
+  },
+  {
+    "species": "Psathyrometra fragilis",
+    "genus": "Psathyrometra",
+    "family": "Zenometridae"
+  },
+  {
+    "species": "Psolus squamatus",
+    "genus": "Psolus",
+    "family": "Psolidae"
+  },
+  {
+    "species": "Pyrosoma atlanticum",
+    "genus": "Pyrosoma",
+    "family": "Pyrosomatidae"
+  },
+  {
+    "species": "Rathbunaster californicus",
+    "genus": "Rathbunaster",
+    "family": "Asteriidae"
+  },
+  {
+    "species": "Scleractinia",
+    "genus": "Scleractinia",
+    "family": null
+  },
+  {
+    "species": "Scotoplanes",
+    "genus": "Scotoplanes",
+    "family": "Elpidiidae"
+  },
+  {
+    "species": "Scotoplanes globosa",
+    "genus": "Scotoplanes",
+    "family": "Elpidiidae"
+  },
+  {
+    "species": "Sebastes",
+    "genus": "Sebastes",
+    "family": "Sebastidae"
+  },
+  {
+    "species": "Sebastes diploproa",
+    "genus": "Sebastes",
+    "family": "Sebastidae"
+  },
+  {
+    "species": "Sebastolobus",
+    "genus": "Sebastolobus",
+    "family": "Sebastidae"
+  },
+  {
+    "species": "Terebellidae",
+    "genus": "Terebellidae",
+    "family": "Terebellidae"
+  },
+  {
+    "species": "Tunicata",
+    "genus": "Tunicata",
+    "family": null
+  },
+  {
+    "species": "Umbellula",
+    "genus": "Umbellula",
+    "family": "Umbellulidae"
+  },
+  {
+    "species": "Vesicomyidae",
+    "genus": "Vesicomyidae",
+    "family": "Vesicomyidae"
+  }
+]
