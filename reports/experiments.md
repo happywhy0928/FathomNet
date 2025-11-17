@@ -21,6 +21,8 @@
 | version_21                 | `make train CONFIG=configs/convnext_threeheads_mixup.yaml TRAIN_EPOCHS=30 LIMIT_TRAIN=1.0 LIMIT_VAL=1.0` | Mixup+cutmix full run, val macro-F1≈0.395 (family≈0.48, genus≈0.39), top-1≈0.53 |
 | version_22                 | `make train CONFIG=configs/convnext_threeheads_randaugment.yaml ...` | RandAugment + mixup (m=12, n=2): val macro-F1 species≈0.387 (peak 0.396), genus≈0.408, family≈0.492 |
 | version_24                 | `make train CONFIG=configs/convnext_threeheads_staged.yaml ...` | Staged fine-tuning (freeze 10 epochs, backbone lr=1e-4): val macro-F1 species≈0.389, genus≈0.381, family≈0.470 |
-| version_25 *(planned)*     | `make train CONFIG=configs/convnext_threeheads_randaugment_mid.yaml ...` | Medium RandAugment (n=1, m=9) + mixup aiming for species macro-F1 ≥0.40 |
+| version_25                 | `make train CONFIG=configs/convnext_threeheads_randaugment_mid.yaml ...` | Medium RandAugment (n=1, m=9): val macro-F1 species≈0.414, genus≈0.410, family≈0.498 |
+| version_26                 | `make train CONFIG=configs/convnext_small_randaugment.yaml ...` | ConvNeXt-Small + medium RandAugment: val macro-F1 species≈0.402, genus≈0.405, family≈0.513 |
+| version_27 *(planned)*     | `make train CONFIG=configs/convnext_small_randaugment_long.yaml ...` | ConvNeXt-Small longer schedule (45 epochs, lr=1.5e-4) to chase species macro-F1 ≥0.42 |
 
 > Update this table each time you run a new experiment, linking to the relevant report file.
