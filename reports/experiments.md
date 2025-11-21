@@ -23,6 +23,7 @@
 | version_24                 | `make train CONFIG=configs/convnext_threeheads_staged.yaml ...` | Staged fine-tuning (freeze 10 epochs, backbone lr=1e-4): val macro-F1 species≈0.389, genus≈0.381, family≈0.470 |
 | version_25                 | `make train CONFIG=configs/convnext_threeheads_randaugment_mid.yaml ...` | Medium RandAugment (n=1, m=9): val macro-F1 species≈0.414, genus≈0.410, family≈0.498 |
 | version_26                 | `make train CONFIG=configs/convnext_small_randaugment.yaml ...` | ConvNeXt-Small + medium RandAugment: val macro-F1 species≈0.402, genus≈0.405, family≈0.513 |
-| version_27 *(planned)*     | `make train CONFIG=configs/convnext_small_randaugment_long.yaml ...` | ConvNeXt-Small longer schedule (45 epochs, lr=1.5e-4) to chase species macro-F1 ≥0.42 |
+| version_27                 | `make train CONFIG=configs/convnext_small_randaugment_long.yaml ...` | ConvNeXt-Small long run (45 epochs, lr=1.5e-4): val macro-F1 species≈0.387, genus≈0.391, family≈0.485 |
+| version_28 *(planned)*     | `make train CONFIG=configs/convnext_threeheads_randaugment_mid_long.yaml ...` | ConvNeXt-Tiny long run (45 epochs, lr=2.5e-4) aiming for species macro-F1 ≥0.42 |
 
 > Update this table each time you run a new experiment, linking to the relevant report file.

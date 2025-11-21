@@ -52,6 +52,10 @@ make train CONFIG=configs/convnext_small_randaugment.yaml \\
 # 12) ConvNeXt-Small + medium RandAugment + longer schedule
 make train CONFIG=configs/convnext_small_randaugment_long.yaml \\
           TRAIN_EPOCHS=45 LIMIT_TRAIN=1.0 LIMIT_VAL=1.0
+
+# 13) ConvNeXt-Tiny + medium RandAugment + longer schedule
+make train CONFIG=configs/convnext_threeheads_randaugment_mid_long.yaml \\
+          TRAIN_EPOCHS=45 LIMIT_TRAIN=1.0 LIMIT_VAL=1.0
 ```
 
 > Tip: For fresh setups, create/activate a virtual environment first, then run Step 1.
